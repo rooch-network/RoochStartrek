@@ -19,13 +19,13 @@
 
 ### 学习成果
 - [x] Bitcoin 全节点
-
-![img.png](images/img2.png)
-
+- ![img.png](images/img2.png)
 - [X] 部署你的第一个合约
-  - dev 网不需要领取 gascoin
-![img.png](images/img2.png)
-
+- ![img.png](images/img2.png)
 - [X] 部署一个和 Bitcoin 交互的合约，使用质押合约
-![img.png](images/img3.png)
+- ![img.png](images/img3.png)
+- [X] NFT合约 mint 需要检查是否持有btc，并且支付 gas coin 当作服务费, [task4 code](code/task4)
+- ![img.png](images/img4.png)
+- [X] 创建一个 Counter 工程
+- ![img.png](images/img5.png)
 
